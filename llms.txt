@@ -1,0 +1,8 @@
+# Funding Traders Discount Codes
+
+This dataset tracks historical deal observations for Funding Traders from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (50%)
+Works any time on all Funding Traders challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
