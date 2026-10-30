@@ -26,26 +26,27 @@ Use discount code **PFD** to get **50% off** on Funding Traders challenges and a
 
 ## Latest Deal
 
-### Funding Traders - Half Price On $50K+ Accounts With All Add-Ons And $50K 1-Step At $82
+### Funding Traders - Halloween 70% off every account entry fee
 
-**Published:** 2026-10-19  
+**Published:** 2026-10-30  
 **Offer ends:** Limited time  
-**Discount:** 50% off  
-**Scope:** $50K+ Accounts Only, $50K 1-Step, Ultimate Bundle, All Add-Ons Included, Bogo Free Matching Account  
+**Discount:** 70% off  
+**Scope:** All Accounts, $5K Instant Funded, $5K 1-Step, $5K 2-Step, Unlimited Uses  
 **Code:** PFD  
 
-**Deal page:** https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/
+**Deal page:** https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/
 
 ---
 
 ## Deal History
 
-Total deals tracked: **88**
+Total deals tracked: **89**
 
-### 2026 (64 deals)
+### 2026 (65 deals)
 
 | Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
+| 2026-10-30 | Halloween 70% off every account entry fee | 70% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/) |
 | 2026-10-19 | Half Price On $50K+ Accounts With All Add-Ons And $50K 1-Step At $82 | 50% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/) |
 | 2026-10-19 | Half Price On Every Account With A Free Match And $5K 1-Step At $15 | 50% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/) |
 | 2026-10-16 | Beat The Weekend Sale Cuts Instant Funded Cost By 70% & $5000 Accounts To $30 | 70% off | 2026-10-18 (ended) | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/) |
