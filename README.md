@@ -8,7 +8,7 @@ As of 2026-10-30, Funding Traders deals run up to 70% OFF with code PFD, which w
 > — Funding Traders, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundingtraders.com)
 
 - Code: PFD
-- Discount: Up to 70% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 70% off (what the code takes off the firm's newest deal; it applies to every Funding Traders deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-30
 - Trustpilot: 3.1/5 (3279 reviews)
