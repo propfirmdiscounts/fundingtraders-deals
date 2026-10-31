@@ -1,44 +1,67 @@
 ---
 license: other
+pretty_name: Funding Traders Discount Code
 configs:
 - config_name: fundingtraders-deals
   data_files:
   - split: data
     path: datasets/fundingtraders-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - fundingtraders
 ---
 
-# Funding Traders - Discount Codes & Deal History
+# Funding Traders Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-30, Funding Traders deals run up to 70% OFF with code PFD, which works any time — the newest is **Halloween 70% off every account entry fee**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/fundingtraders/
+> FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.
+> Led by a veteran Wall Street Trader.
+>
+> — Funding Traders, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundingtraders.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 70% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-30
+- Trustpilot: 3.1/5 (3279 reviews)
+- Activate: https://propfirmdiscount.com/go/fundingtraders
+- Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **50% off** on Funding Traders challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Funding Traders evaluation accounts.
+## Current Funding Traders deal: Halloween 70% off every account entry fee
+
+- Published: 2026-10-30
+- Offer ends: Limited time
+- Offer: 70% off
+- Scope: All Accounts, $5K Instant Funded, $5K 1-Step, $5K 2-Step, Unlimited Uses
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/
+
+## Funding Traders discount code FAQ
+
+**What is the Funding Traders discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 70% off Funding Traders challenges and accounts.
+
+**Does the Funding Traders discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Funding Traders deal?**
+
+**Halloween 70% off every account entry fee** — published 2026-10-30. Offer ends: Limited time. The offer is 70% off.
 
 ---
 
-## Latest Deal
-
-### Funding Traders - Halloween 70% off every account entry fee
-
-**Published:** 2026-10-30  
-**Offer ends:** Limited time  
-**Discount:** 70% off  
-**Scope:** All Accounts, $5K Instant Funded, $5K 1-Step, $5K 2-Step, Unlimited Uses  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **89**
 
@@ -143,19 +166,20 @@ Total deals tracked: **89**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Funding Traders** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Funding Traders** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/fundingtraders/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/fundingtraders/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
