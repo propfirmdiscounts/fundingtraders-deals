@@ -1,6 +1,6 @@
 # Funding Traders Discount Code
 
-As of 2026-10-30, Funding Traders deals run up to 70% OFF with code PFD, which works any time — the newest is **Halloween 70% off every account entry fee**.
+As of 2026-10-30, Funding Traders deals run up to 70% OFF with code PFD, which works any time — the newest is Halloween 70% off every account entry fee.
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.
 > Led by a veteran Wall Street Trader.
