@@ -19,33 +19,32 @@ tags:
 
 # Funding Traders Discount Code
 
-As of 2026-10-30, Funding Traders deals run up to 70% OFF with code PFD, which works any time — the newest is Halloween 70% off every account entry fee.
+As of 2026-11-02, Funding Traders deals run up to 50% OFF with code PFD, which works any time — the newest is All accounts cut by 50% in November.
 
 - Code: PFD
-- Discount: Up to 70% off (what the code takes off the firm's newest deal; it applies to every Funding Traders deal, whatever form that deal is stated in)
+- Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every Funding Traders deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-30
-- Trustpilot: 3.1/5 (3279 reviews)
+- Last deal published: 2026-11-02
+- Trustpilot: 3.1/5 (3283 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Funding Traders deal: Halloween 70% off every account entry fee
+## Current Funding Traders deal: All accounts cut by 50% in November
 
-- Published: 2026-10-30
+- Published: 2026-11-02
 - Offer ends: Limited time
-- Offer: 70% off
-- Event: Halloween
-- Scope: All Accounts, $5K Instant Funded, $5K 1-Step, $5K 2-Step, Unlimited Uses
+- Offer: 50% off
+- Scope: All Accounts, Example Given: $5K 1-Step
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-all-accounts-november/
 
 ## Funding Traders discount code FAQ
 
 **What is the Funding Traders discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 70% off Funding Traders challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 50% off Funding Traders challenges and accounts.
 
 **Does the Funding Traders discount code expire?**
 
@@ -53,18 +52,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Funding Traders deal?**
 
-**Halloween 70% off every account entry fee** — published 2026-10-30. Offer ends: Limited time. The offer is 70% off.
+**All accounts cut by 50% in November** — published 2026-11-02. Offer ends: Limited time. The offer is 50% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **89**
+Total deals tracked: **90**
 
-### 2026 (65 deals)
+### 2026 (66 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-02 | All accounts cut by 50% in November | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-all-accounts-november/) |
 | 2026-10-30 | Halloween 70% off every account entry fee | 70% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/) |
 | 2026-10-19 | Half Price On $50K+ Accounts With All Add-Ons And $50K 1-Step At $82 | 50% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/) |
 | 2026-10-19 | Half Price On Every Account With A Free Match And $5K 1-Step At $15 | 50% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching/) |
