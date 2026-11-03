@@ -1,6 +1,11 @@
-# Funding Traders Discount Code
+# Funding Traders - Discount Codes & Deal History
 
 As of 2026-11-02, Funding Traders deals run up to 50% OFF with code PFD, which works any time — the newest is All accounts cut by 50% in November.
+
+> FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.
+> Led by a veteran Wall Street Trader.
+>
+> — Funding Traders, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundingtraders.com)
 
 - Code: PFD
 - Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every Funding Traders deal, whatever form that deal is stated in)
