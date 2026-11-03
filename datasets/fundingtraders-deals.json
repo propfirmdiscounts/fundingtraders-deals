@@ -1,5 +1,71 @@
 [
   {
+    "deal_id": 13122,
+    "title": "Half Price on Instant Funded and Pro Accounts",
+    "offer_type": "coupon",
+    "discount_value": "50%",
+    "scope": [
+      "Instant Funded, 1-Step Pro, 2-Step Pro 10"
+    ],
+    "date_published": "2026-11-03",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-03",
+    "post_url": "https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/",
+    "prop_firm": "Funding Traders",
+    "prop_firm_slug": "fundingtraders",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundingtraders",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundingtraders/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
+    "deal_id": 13121,
+    "title": "70% Off 2-Step Swing Accounts - Lower Entry Fee",
+    "offer_type": "coupon",
+    "discount_value": "70%",
+    "scope": [
+      "2-Step Swing, Evaluation Account"
+    ],
+    "date_published": "2026-11-03",
+    "date_exp": "2026-11-03 20:00",
+    "event": null,
+    "last_verified": "2026-11-03",
+    "post_url": "https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/",
+    "prop_firm": "Funding Traders",
+    "prop_firm_slug": "fundingtraders",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundingtraders",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundingtraders/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
+    "deal_id": 13120,
+    "title": "70% Off 2-Step Day Accounts - Lower Entry Fee",
+    "offer_type": "coupon",
+    "discount_value": "70%",
+    "scope": [
+      "2-Step Day, Evaluation Account"
+    ],
+    "date_published": "2026-11-03",
+    "date_exp": "2026-11-03 20:00",
+    "event": null,
+    "last_verified": "2026-11-03",
+    "post_url": "https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-day-accounts/",
+    "prop_firm": "Funding Traders",
+    "prop_firm_slug": "fundingtraders",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/fundingtraders",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fundingtraders/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 13088,
     "title": "All accounts cut by 50% in November",
     "offer_type": "coupon",
