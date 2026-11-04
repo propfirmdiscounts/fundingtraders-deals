@@ -51,8 +51,8 @@ Total deals tracked: **93**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-11-03 | Half Price on Instant Funded and Pro Accounts | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/) |
-| 2026-11-03 | 70% Off 2-Step Swing Accounts - Lower Entry Fee | 70% off | 2026-11-03 20:00 | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/) |
-| 2026-11-03 | 70% Off 2-Step Day Accounts - Lower Entry Fee | 70% off | 2026-11-03 20:00 | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-day-accounts/) |
+| 2026-11-03 | 70% Off 2-Step Swing Accounts - Lower Entry Fee | 70% off | 2026-11-03 20:00 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/) |
+| 2026-11-03 | 70% Off 2-Step Day Accounts - Lower Entry Fee | 70% off | 2026-11-03 20:00 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-day-accounts/) |
 | 2026-11-02 | All accounts cut by 50% in November | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-all-accounts-november/) |
 | 2026-10-30 | Halloween 70% off every account entry fee | 70% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-halloween-70-off-all-accounts/) |
 | 2026-10-19 | Half Price On $50K+ Accounts With All Add-Ons And $50K 1-Step At $82 | 50% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-50k-ultimate-bundle-bogo/) |
