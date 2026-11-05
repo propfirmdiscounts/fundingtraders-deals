@@ -11,7 +11,7 @@ As of 2026-11-03, Funding Traders deals run up to 50% OFF with code PFD, which w
 - Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every Funding Traders deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-03
-- Trustpilot: 3.1/5 (3283 reviews)
+- Trustpilot: 3.1/5 (3284 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
