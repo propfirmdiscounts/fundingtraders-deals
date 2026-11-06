@@ -1,14 +1,14 @@
-# Funding Traders - Discount Codes & Deal History
+# FundingTraders - Discount Codes & Deal History
 
-As of 2026-11-03, Funding Traders deals run up to 50% OFF with code PFD, which works any time — the newest is Half Price on Instant Funded and Pro Accounts.
+As of 2026-11-03, FundingTraders deals run up to 50% OFF with code PFD, which works any time — the newest is Half Price on Instant Funded and Pro Accounts.
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.
 > Led by a veteran Wall Street Trader.
 >
-> — Funding Traders, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundingtraders.com)
+> — FundingTraders, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundingtraders.com)
 
 - Code: PFD
-- Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every Funding Traders deal, whatever form that deal is stated in)
+- Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every FundingTraders deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-03
 - Trustpilot: 3.1/5 (3284 reviews)
@@ -17,7 +17,7 @@ As of 2026-11-03, Funding Traders deals run up to 50% OFF with code PFD, which w
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Funding Traders deal: Half Price on Instant Funded and Pro Accounts
+## Current FundingTraders deal: Half Price on Instant Funded and Pro Accounts
 
 - Published: 2026-11-03
 - Offer ends: Limited time
@@ -26,17 +26,17 @@ As of 2026-11-03, Funding Traders deals run up to 50% OFF with code PFD, which w
 - Code: PFD
 - Deal page: https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/
 
-## Funding Traders discount code FAQ
+## FundingTraders discount code FAQ
 
-**What is the Funding Traders discount code?**
+**What is the FundingTraders discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 50% off Funding Traders challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 50% off FundingTraders challenges and accounts.
 
-**Does the Funding Traders discount code expire?**
+**Does the FundingTraders discount code expire?**
 
 No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
 
-**How much is the current Funding Traders deal?**
+**How much is the current FundingTraders deal?**
 
 **Half Price on Instant Funded and Pro Accounts** — published 2026-11-03. Offer ends: Limited time. The offer is 50% off.
 
@@ -153,7 +153,7 @@ Total deals tracked: **93**
 
 ## About this repository
 
-This repository mirrors every deal **Funding Traders** has published on PropFirmDiscount.com, regenerated from the live API.
+This repository mirrors every deal **FundingTraders** has published on PropFirmDiscount.com, regenerated from the live API.
 
 - Data source: https://propfirmdiscount.com
 - Prop firm profile: https://propfirmdiscount.com/prop-firm/fundingtraders/
