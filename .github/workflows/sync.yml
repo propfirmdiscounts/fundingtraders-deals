@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: fundingtraders-discount-codes
+  HF_NAMESPACE: fundingtraders
+  HF_REPO_NAME: fundingtraders-deals
   FIRM_SLUG: fundingtraders
   DEALSTORE_ID: 50
   FIRM_NAME: Funding Traders
