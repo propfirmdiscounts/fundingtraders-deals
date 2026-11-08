@@ -62,7 +62,7 @@ Total deals tracked: **94**
 | 2026-10-16 | Beat The Weekend Sale Cuts Instant Funded Cost By 70% & $5000 Accounts To $30 | 70% off | 2026-10-18 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-70-off-instant-30-2-step-pro/) |
 | 2026-10-12 | Multi-Account Package with All Add-ons Included | 90% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-buy-1-get-3-bundle-halloween/) |
 | 2026-10-12 | 50% Reduction Plus Free Matching Account | 50% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-halloween/) |
-| 2026-10-07 | 50% Off 2-Step Pro Accounts and Bonus Funding Offer | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-100k/) |
+| 2026-10-07 | 50% Off 2-Step Pro Accounts and Bonus Funding Offer | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-bogo-100k/) |
 | 2026-10-05 | Up to 81% Off Instant Accounts During Event | 81% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-funded-week-81-off/) |
 | 2026-09-13 | 50% Off 100k+ Trading Challenges Entry Pricing | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-100k-accounts-2/) |
 | 2026-09-10 | 50% Off All Evaluation Accounts Lowers Upfront Entry Cost | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-percent-discount-all-accounts-2/) |
