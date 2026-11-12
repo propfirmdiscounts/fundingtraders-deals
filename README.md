@@ -1,6 +1,6 @@
 # FundingTraders - Discount Codes & Deal History
 
-As of 2026-11-07, FundingTraders deals run up to 70% OFF with code PFD, which works any time — the newest is Diwali 70% Off 1-Step Accounts.
+As of 2026-11-12, FundingTraders deals run up to 81% OFF with code PFD, which works any time — the newest is Up to 81% Off Instant Funded.
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.
 > Led by a veteran Wall Street Trader.
@@ -8,30 +8,29 @@ As of 2026-11-07, FundingTraders deals run up to 70% OFF with code PFD, which wo
 > — FundingTraders, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundingtraders.com)
 
 - Code: PFD
-- Discount: Up to 70% off (what the code takes off the firm's newest deal; it applies to every FundingTraders deal, whatever form that deal is stated in)
+- Discount: Up to 81% off (what the code takes off the firm's newest deal; it applies to every FundingTraders deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-07
-- Trustpilot: 3.1/5 (3285 reviews)
+- Last deal published: 2026-11-12
+- Trustpilot: 3.1/5 (3288 reviews)
 - Activate: https://propfirmdiscount.com/go/fundingtraders
 - Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current FundingTraders deal: Diwali 70% Off 1-Step Accounts
+## Current FundingTraders deal: Up to 81% Off Instant Funded
 
-- Published: 2026-11-07
+- Published: 2026-11-12
 - Offer ends: Limited time
-- Offer: 70% off
-- Event: Diwali
-- Scope: $5K And $10K 1-Step Accounts
+- Offer: 81% off
+- Scope: Instant Funded
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/
+- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/
 
 ## FundingTraders discount code FAQ
 
 **What is the FundingTraders discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 70% off FundingTraders challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 81% off FundingTraders challenges and accounts.
 
 **Does the FundingTraders discount code expire?**
 
@@ -39,18 +38,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current FundingTraders deal?**
 
-**Diwali 70% Off 1-Step Accounts** — published 2026-11-07. Offer ends: Limited time. The offer is 70% off.
+**Up to 81% Off Instant Funded** — published 2026-11-12. Offer ends: Limited time. The offer is 81% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **94**
+Total deals tracked: **95**
 
-### 2026 (70 deals)
+### 2026 (71 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-12 | Up to 81% Off Instant Funded | 81% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/) |
 | 2026-11-07 | Diwali 70% Off 1-Step Accounts | 70% off | Limited time | Diwali | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/) |
 | 2026-11-03 | Half Price on Instant Funded and Pro Accounts | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/) |
 | 2026-11-03 | 70% Off 2-Step Swing Accounts - Lower Entry Fee | 70% off | 2026-11-03 20:00 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-70-off-2-step-swing-accounts/) |
