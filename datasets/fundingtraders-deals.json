@@ -1300,7 +1300,7 @@
   {
     "deal_id": 11328,
     "title": "50% Off Phase 1 Resets & 150% Cost Phase 2 Continuations",
-    "offer_type": "deal",
+    "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
       "2-Step Pro10 Accounts, 2-Step Pro6 Accounts, Phase 1 Resets, Phase 2 Resets"
