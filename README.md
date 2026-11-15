@@ -11,11 +11,12 @@ As of 2026-11, FundingTraders deals run 81% OFF with code PFD, which works any t
 - Discount: 81% off (what the code takes off the firm's newest deal; it applies to every FundingTraders deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-12
-- Trustpilot: 3.1/5 (3288 reviews)
-- Activate: https://propfirmdiscount.com/go/fundingtraders
-- Firm page: https://propfirmdiscount.com/prop-firm/fundingtraders/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3.1/5 (3288 reviews)](https://www.trustpilot.com/review/fundingtraders.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/fundingtraders-deals](https://github.com/propfirmdiscounts/fundingtraders-deals)
+- Activate: [https://propfirmdiscount.com/go/fundingtraders](https://propfirmdiscount.com/go/fundingtraders)
+- Firm page: [https://propfirmdiscount.com/prop-firm/fundingtraders/](https://propfirmdiscount.com/prop-firm/fundingtraders/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current FundingTraders deal: Up to 81% Off Instant Funded with code PFD
 
@@ -24,7 +25,7 @@ As of 2026-11, FundingTraders deals run 81% OFF with code PFD, which works any t
 - Offer: 81% off
 - Scope: Instant Funded
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/
+- Deal page: [https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/)
 
 ## FundingTraders discount code FAQ
 
@@ -157,9 +158,9 @@ Total deals tracked: **95**
 
 This repository mirrors every deal **FundingTraders** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/fundingtraders/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/fundingtraders/](https://propfirmdiscount.com/prop-firm/fundingtraders/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/fundingtraders-deals.json`
 
