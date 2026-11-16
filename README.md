@@ -1,6 +1,6 @@
 # FundingTraders - Discount Codes & Deal History
 
-As of November 2026, FundingTraders deals offer 81% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified Funding Traders discount code is PFD — 70% OFF, which can be applied on the checkout page anytime. The newest is "Up to 81% Off Instant Funded with code PFD".
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.
 > Led by a veteran Wall Street Trader.
@@ -12,11 +12,11 @@ As of November 2026, FundingTraders deals offer 81% OFF with code PFD, which can
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-12
 - Trustpilot: [3.1/5 (3288 reviews)](https://www.trustpilot.com/review/fundingtraders.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/fundingtraders-deals](https://github.com/propfirmdiscounts/fundingtraders-deals)
-- Activate: [https://propfirmdiscount.com/go/fundingtraders](https://propfirmdiscount.com/go/fundingtraders)
-- Firm page: [https://propfirmdiscount.com/prop-firm/fundingtraders/](https://propfirmdiscount.com/prop-firm/fundingtraders/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Funding Traders Deals Repository](https://github.com/propfirmdiscounts/fundingtraders-deals)
+- Activate: [Activate Funding Traders Discount Code](https://propfirmdiscount.com/go/fundingtraders)
+- Firm page: [Funding Traders Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fundingtraders/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Funding Traders API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current FundingTraders deal: Up to 81% Off Instant Funded with code PFD
 
@@ -25,7 +25,7 @@ As of November 2026, FundingTraders deals offer 81% OFF with code PFD, which can
 - Offer: 81% off
 - Scope: Instant Funded
 - Code: PFD
-- Deal page: [https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/)
+- Deal page: [Funding Traders Deal Page](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/)
 
 ## FundingTraders discount code FAQ
 
@@ -158,9 +158,9 @@ Total deals tracked: **95**
 
 This repository mirrors every deal **FundingTraders** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/fundingtraders/](https://propfirmdiscount.com/prop-firm/fundingtraders/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Funding Traders Profile](https://propfirmdiscount.com/prop-firm/fundingtraders/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/fundingtraders-deals.json`
 
@@ -203,4 +203,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
