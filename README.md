@@ -1,6 +1,6 @@
 # FundingTraders - Discount Codes & Deal History
 
-As of 2026-11, FundingTraders deals run 81% OFF with code PFD, which works any time — the newest is Up to 81% Off Instant Funded.
+As of November 2026, FundingTraders deals offer 81% OFF with code PFD, which can be applied on the checkout page anytime.
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.
 > Led by a veteran Wall Street Trader.
