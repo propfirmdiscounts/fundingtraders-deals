@@ -1,6 +1,6 @@
-# Funding Traders Discount Code & Deal History
+# FundingTraders Discount Code & Deal History
 
-As of November 2026, the verified Funding Traders discount code is PFD — 81% OFF, which can be applied on the checkout page anytime. The newest is "Up to 81% Off Instant Funded with code PFD".
+As of November 2026, the verified FundingTraders discount code is PFD — 81% OFF, which can be applied on the checkout page anytime. The newest is "Up to 81% Off Instant Funded Accounts with code PFD".
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.
 > Led by a veteran Wall Street Trader.
@@ -10,24 +10,24 @@ As of November 2026, the verified Funding Traders discount code is PFD — 81% O
 - Code: PFD
 - Discount: 81% off (what the code takes off the firm's newest deal; it applies to every FundingTraders deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-12
-- Trustpilot: [3.1/5 (3288 reviews)](https://www.trustpilot.com/review/fundingtraders.com)
-- GitHub repository: [Funding Traders Deals Repository](https://github.com/propfirmdiscounts/fundingtraders-deals)
-- Activate: [Activate Funding Traders Discount Code](https://propfirmdiscount.com/go/fundingtraders)
-- Firm page: [Funding Traders Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fundingtraders/)
+- Last deal published: 2026-11-16
+- Trustpilot: [3.1/5 (3290 reviews)](https://www.trustpilot.com/review/fundingtraders.com)
+- GitHub repository: [FundingTraders Deals Repository](https://github.com/propfirmdiscounts/fundingtraders-deals)
+- Activate: [Activate FundingTraders Discount Code](https://propfirmdiscount.com/go/fundingtraders)
+- Firm page: [FundingTraders Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fundingtraders/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [Funding Traders API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
+- Code record: [FundingTraders API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Funding Traders deal: Up to 81% Off Instant Funded with code PFD
+## Latest FundingTraders deal: Up to 81% Off Instant Funded Accounts with code PFD
 
-- Published: 2026-11-12
+- Published: 2026-11-16
 - Offer ends: Limited time
 - Offer: 81% off
-- Scope: Instant Funded
+- Scope: Instant Funded Accounts
 - Code: PFD
-- Deal page: [Funding Traders Deal Page](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/)
+- Deal page: [FundingTraders Deal Page](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/)
 
-## Funding Traders Discount Code & Deals FAQ
+## FundingTraders Discount Code & Deals FAQ
 
 **What is the FundingTraders discount code?**
 
@@ -39,18 +39,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current FundingTraders deal?**
 
-**Up to 81% Off Instant Funded with code PFD** — published 2026-11-12. Offer ends: Limited time. The offer is 81% off.
+**Up to 81% Off Instant Funded Accounts with code PFD** — published 2026-11-16. Offer ends: Limited time. The offer is 81% off.
 
 ---
 
-## Funding Traders Deal History
+## FundingTraders Deal History
 
-Total deals tracked: **95**
+Total deals tracked: **96**
 
-### 2026 (71 deals)
+### 2026 (72 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-16 | FundingTraders: Up to 81% Off Instant Funded Accounts with code PFD | 81% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/) |
 | 2026-11-12 | FundingTraders: Up to 81% Off Instant Funded with code PFD | 81% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-up-to-81-off-instant-funded/) |
 | 2026-11-07 | FundingTraders: Diwali 70% Off 1-Step Accounts with code PFD | 70% off | Limited time | Diwali | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-diwali-70-off-1-step/) |
 | 2026-11-03 | FundingTraders: Half Price on Instant Funded and Pro Accounts with code PFD | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/funding-traders-50-off-instant-funded-pro/) |
@@ -154,15 +155,15 @@ Total deals tracked: **95**
 
 ---
 
-## About the Funding Traders Deals Dataset
+## About the FundingTraders Deals Dataset
 
 This repository mirrors every deal **FundingTraders** has published on PropFirmDiscount.com, regenerated from the live API.
 
 - Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [Funding Traders Profile](https://propfirmdiscount.com/prop-firm/fundingtraders/)
+- Prop firm profile: [FundingTraders Profile](https://propfirmdiscount.com/prop-firm/fundingtraders/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Funding Traders Deal Dataset: Field Definitions
+## FundingTraders Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
