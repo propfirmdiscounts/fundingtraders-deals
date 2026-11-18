@@ -1,6 +1,6 @@
 # FundingTraders Discount Code, Deals History & Dataset
 
-As of November 2026, the verified FundingTraders discount code is PFD — 70% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday Up to 70% Off with code PFD".
+As of November 2026, the verified FundingTraders discount code is PFD — 81% OFF, which can be applied on the checkout page anytime. The newest is "$500 Off the $100K Instant Account with code PFD".
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.
 > Led by a veteran Wall Street Trader.
@@ -8,7 +8,7 @@ As of November 2026, the verified FundingTraders discount code is PFD — 70% OF
 > — FundingTraders, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundingtraders.com)
 
 - Code: PFD
-- Discount: 70% off (what the code takes off the firm's newest deal; it applies to every FundingTraders deal, whatever form that deal is stated in)
+- Discount: 81% off (what the code takes off the firm's newest deal; it applies to every FundingTraders deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
 - Trustpilot: [3.1/5 (3290 reviews)](https://www.trustpilot.com/review/fundingtraders.com)
@@ -18,21 +18,20 @@ As of November 2026, the verified FundingTraders discount code is PFD — 70% OF
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [FundingTraders API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest FundingTraders deal: Black Friday Up to 70% Off with code PFD
+## Latest FundingTraders deal: $500 Off the $100K Instant Account with code PFD
 
-- Published: 2026-11-17
+- Published: 2026-11-18
 - Offer ends: Limited time
-- Offer: 70% off
-- Event: Black Friday
-- Scope: Accounts (1-Step And Instant Listed)
+- Offer: $500 Off
+- Scope: $100K Instant Funded Account
 - Code: PFD
-- Deal page: [FundingTraders Deal Page](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/)
+- Deal page: [FundingTraders Deal Page](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/)
 
 ## FundingTraders Discount Code & Deals History FAQ
 
 **What is the FundingTraders discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 70% off FundingTraders challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 81% off FundingTraders challenges and accounts.
 
 **Does the FundingTraders discount code expire?**
 
@@ -40,18 +39,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current FundingTraders deal?**
 
-**Black Friday Up to 70% Off with code PFD** — published 2026-11-17. Offer ends: Limited time. The offer is 70% off.
+**$500 Off the $100K Instant Account with code PFD** — published 2026-11-18. Offer ends: Limited time. The offer is $500 Off.
 
 ---
 
 ## FundingTraders Deals History
 
-Total deals tracked: **98**
+Total deals tracked: **99**
 
-### 2026 (74 deals)
+### 2026 (75 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-18 | FundingTraders: $500 Off the $100K Instant Account with code PFD | $500 Off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-500-off-100k-instant-funded/) |
 | 2026-11-17 | FundingTraders: Black Friday Up to 70% Off with code PFD | 70% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-black-friday-up-to-70-off/) |
 | 2026-11-17 | FundingTraders: 50% Off Plus a Free Matching Account with code PFD | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-50-off-all-accounts-free-matching-2/) |
 | 2026-11-16 | FundingTraders: Up to 81% Off Instant Funded Accounts with code PFD | 81% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fundingtraders/fundingtraders-instant-flash-sale-up-to-81-off/) |
