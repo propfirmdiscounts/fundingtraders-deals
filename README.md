@@ -1,6 +1,6 @@
 # FundingTraders Discount Code, Deals History & Dataset
 
-As of November 2026, the verified FundingTraders discount code is PFD — 81% OFF, which can be applied on the checkout page anytime. The newest is "$500 Off the $100K Instant Account with code PFD".
+As of November 2026, the verified FundingTraders discount code is PFD — 70% OFF, which can be applied on the checkout page anytime. The newest is "$500 Off the $100K Instant Account with code PFD".
 
 > FundingTraders is the best prop firm for serious traders that want to monetize their trading. We offer evaluation services for all types of traders. Our evaluations are designed to make you a professional trader and build a lifelong skill that you can take anywhere.
 > Led by a veteran Wall Street Trader.
@@ -8,9 +8,9 @@ As of November 2026, the verified FundingTraders discount code is PFD — 81% OF
 > — FundingTraders, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundingtraders.com)
 
 - Code: PFD
-- Discount: 81% off (what the code takes off the firm's newest deal; it applies to every FundingTraders deal, whatever form that deal is stated in)
+- Discount: 70% off (what the code takes off the firm's newest deal; it applies to every FundingTraders deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-16
+- Last deal published: 2026-11-18
 - Trustpilot: [3.1/5 (3290 reviews)](https://www.trustpilot.com/review/fundingtraders.com)
 - GitHub repository: [FundingTraders Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/fundingtraders-deals)
 - Activate: [Activate FundingTraders Discount Code](https://propfirmdiscount.com/go/fundingtraders)
@@ -31,7 +31,7 @@ As of November 2026, the verified FundingTraders discount code is PFD — 81% OF
 
 **What is the FundingTraders discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 81% off FundingTraders challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 70% off FundingTraders challenges and accounts.
 
 **Does the FundingTraders discount code expire?**
 
